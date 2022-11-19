@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ![giphy](https://user-images.githubusercontent.com/115101031/202830993-5df3e097-e1ec-483a-a52b-70b00c2adfc0.gif)
 
-##Background
+## Background
 
 When considering the quality of education and outcomes for success there are a number of variables that can be explored as contributing factors. School size, and as a result class size is one of the small number of variables thought to influence student learning.  Another is school budget, which can influence decisions on pupil/teacher ratios in classes.  Additionally, as charter school enrollments grow, school districts may struggle with the redirection of funding which impact the availability of resources and learning in the classroom.
 
@@ -15,7 +15,7 @@ https://www.brookings.edu/blog/brown-center-chalkboard/2019/06/07/charter-school
 https://schoolturnaround.org/factors-that-affect-student-achievement/ 
 
 
-##Using Pandas to Boost Data Analysis
+## Using Pandas to Boost Data Analysis
 
 Pandas will provide a powerful framework for our analysis and has several functions for cleaning, analyzing, and manipulating data, which will help extract valuable insights about our data set. Because of its flexibility and simpler syntax, it is now widely used for data analysis.
 
@@ -35,7 +35,7 @@ https://towardsdatascience.com/boost-your-data-analysis-with-pandas-69c4be5d73bb
 https://sedl.org/pubs/sedl-letter/v22n02/using-data.html 
 
 
-##Technical Observations
+## Technical Observations
 
 Educator's and school districts have long collected and used a wide variety of data, including examining standardized test scores to measure district-wide achievement. Tools like Pandas has greatly increased the opportunities to use data and analytics. Using Pandas to take on this challenge gave me a front-row seat to why it is the most popular tool among data scientists.
 
@@ -54,7 +54,7 @@ Our data set included a range of data points, including:
 * Student information: names, gender, grade, home school, math scores, reading scores 
 
 
-##Observations on the Results
+## Observations on the Results
 
 * District Summary: Includes a total of 15 schools and 39,170 students. As a district, students perform better in reading than in math.  It is also clear that there are schools that underperform overall, weighting the overall percentage passing to 65%.
 <img width="909" alt="District Summary" src="https://user-images.githubusercontent.com/115101031/202832825-6f51f961-b6e0-4c66-ad60-7fc8d5b99ca4.png">
@@ -82,7 +82,6 @@ Our data set included a range of data points, including:
 
 <img width="803" alt="Scores by Type" src="https://user-images.githubusercontent.com/115101031/202834300-d4f7f393-cc65-49d7-963c-db63524f22c7.png">
                                                                                                                   
-##Next Steps
+## Next Steps
 
 Clearly, there is much more that we can learn from the data.  When considering the quality of education and outcomes for success there are a number of additonal variables that can be explored, including enhancing the visualization of the data broadening the data set to compare district data with other district, state date and national results; exploring soci-economic and racialized impacts on performance (as a byproduct of school and resources), and examining trends over time by school and student.
-
