@@ -1,6 +1,6 @@
 # An Exploration of Education…By the Numbers
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-                  ![giphy](https://user-images.githubusercontent.com/115101031/202830993-5df3e097-e1ec-483a-a52b-70b00c2adfc0.gif)
+![giphy](https://user-images.githubusercontent.com/115101031/202830993-5df3e097-e1ec-483a-a52b-70b00c2adfc0.gif)
 
 ##Background
 
@@ -62,11 +62,14 @@ Our data set included a range of data points, including:
 * School Summary: The largest schools were District schools, had the largest budgets, and spend the most per student.  Charter schools by comparison are smaller and generally have smaller budgets.  District schools represented the lowest performing schools across math, reading, and overall scores.  The top 5 performing schools were all Charter schools, while District schools populated all positions in the bottom 5 schools.  A conclusion might be drawn that smaller schools have smaller class sizes and therefore more individual attention for each students.  Budget did not seem to be a contributing factor, as bigger schools, with bigger budgets seem to lag in student performance.
 
 <img width="994" alt="Top Performing Schools" src="https://user-images.githubusercontent.com/115101031/202833629-c44aa74d-2da2-4fcc-bb6a-3ad7c3401798.png">
+
 <img width="993" alt="Bottom Performing Schools" src="https://user-images.githubusercontent.com/115101031/202833640-a553a992-4395-4cc7-9794-9922d6053725.png">
 
 * Scores by Grade: Across each school, there was consistency with math and reading scores from grade to grade.  Students performed better in reading than in math.  The results provided insight as to prioritizing curricular resources and effort on improving math skills across the grades, whether a revision of the curriculum, or additional teaching support to improve foundational capacity. 
 
-<img width="316" alt="Math Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833776-0931e464-e989-40de-9259-1ebebab4b81a.png><img width="316" alt="Reading Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833784-ee952751-6025-49e2-823a-f8263b3c415a.png">
+<img width="316" alt="Math Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833776-0931e464-e989-40de-9259-1ebebab4b81a.png>
+
+<img width="316" alt="Reading Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833784-ee952751-6025-49e2-823a-f8263b3c415a.png">
 
 * Scores by Spending: School budgets did not seem to be an indicator of student performance.  Schools that spent more per student had the lowest scores.  It provides insight to take a closer look at how the budget is being allocated.  How are schools with smaller budgets using their resources effectively, and how can that inform policies and practices across the district.
 
