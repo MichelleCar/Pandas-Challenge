@@ -9,10 +9,10 @@ When considering the quality of education and outcomes for success there are a n
 The question remains if these factors play out in the numbers.  For example, does competition between charter and district schools spur traditional public schools and districts to improve—for the benefit of all?
 
 Sources:
+
 https://www.brookings.edu/research/class-size-what-research-says-and-what-it-means-for-state-policy/
 https://www.brookings.edu/blog/brown-center-chalkboard/2019/06/07/charter-schools-good-or-bad-for-students-in-district-schools/ 
 https://schoolturnaround.org/factors-that-affect-student-achievement/ 
-![image](https://user-images.githubusercontent.com/115101031/202831017-d8426955-7f89-4059-9b0e-5c45ee704061.png)
 
 
 ##Using Pandas to Boost Data Analysis
@@ -33,7 +33,6 @@ In this task, student performance in math and reading was measured by:
 Sources:
 https://towardsdatascience.com/boost-your-data-analysis-with-pandas-69c4be5d73bb
 https://sedl.org/pubs/sedl-letter/v22n02/using-data.html 
-![image](https://user-images.githubusercontent.com/115101031/202831046-d513fec6-08a2-4838-aaf8-90d42351eb36.png)
 
 
 ##Technical Observations![image](https://user-images.githubusercontent.com/115101031/202831255-5bd2a8c7-ce78-4b97-8523-3d54118d8a08.png)
@@ -61,19 +60,23 @@ Our data set included a range of data points, including:
 <img width="909" alt="District Summary" src="https://user-images.githubusercontent.com/115101031/202832825-6f51f961-b6e0-4c66-ad60-7fc8d5b99ca4.png">
 
 * School Summary: The largest schools were District schools, had the largest budgets, and spend the most per student.  Charter schools by comparison are smaller and generally have smaller budgets.  District schools represented the lowest performing schools across math, reading, and overall scores.  The top 5 performing schools were all Charter schools, while District schools populated all positions in the bottom 5 schools.  A conclusion might be drawn that smaller schools have smaller class sizes and therefore more individual attention for each students.  Budget did not seem to be a contributing factor, as bigger schools, with bigger budgets seem to lag in student performance.
+
 <img width="994" alt="Top Performing Schools" src="https://user-images.githubusercontent.com/115101031/202833629-c44aa74d-2da2-4fcc-bb6a-3ad7c3401798.png">
 <img width="993" alt="Bottom Performing Schools" src="https://user-images.githubusercontent.com/115101031/202833640-a553a992-4395-4cc7-9794-9922d6053725.png">
 
 * Scores by Grade: Across each school, there was consistency with math and reading scores from grade to grade.  Students performed better in reading than in math.  The results provided insight as to prioritizing curricular resources and effort on improving math skills across the grades, whether a revision of the curriculum, or additional teaching support to improve foundational capacity. 
+
 <img width="316" alt="Math Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833776-0931e464-e989-40de-9259-1ebebab4b81a.png><img width="316" alt="Reading Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833784-ee952751-6025-49e2-823a-f8263b3c415a.png">
 
 * Scores by Spending: School budgets did not seem to be an indicator of student performance.  Schools that spent more per student had the lowest scores.  It provides insight to take a closer look at how the budget is being allocated.  How are schools with smaller budgets using their resources effectively, and how can that inform policies and practices across the district.
+
 <img width="807" alt="Scores by Spending" src="https://user-images.githubusercontent.com/115101031/202834003-1c33cd9e-ab2a-4a06-9a6b-1b4b7f1a5fa8.png">
                                                                                                                                                      
 * Scores by Size: Overall, schools with less than 2000 students performed better than larger schools.  It could be hypothesized that smaller schools would have smaller classes, and therefore, more individual attention to students.  Clearly, class size has an impact on student performance.
-<img width="833" alt="Scores by Size" src="https://user-images.githubusercontent.com/115101031/202834080-095177b6-d890-4d89-baa1-323818361443.png">
+                                                                                                                                                         <img width="833" alt="Scores by Size" src="https://user-images.githubusercontent.com/115101031/202834080-095177b6-d890-4d89-baa1-323818361443.png">
                                                                                                                            
 * Scores by Type: There was a significant difference between District and Charter schools in terms of student performance in all categories.  Charter schools are publicly-funded, tuition-free schools, but they differ from traditional public schools in key ways. First, charters have more flexibility. Rather than being part of a public school district, which dictates curriculum and standards in all schools, charters operate autonomously through individual agreements, or charters, with state or local governments that dictate rules and performance standards. Given the ability to operate through these agreements, individual charter schools can tailor their curriculum, academic focus, discipline policy and other matters generally decided at the school district or state board level. In return for that flexibility, charter schools are supposed to be more accountable to parents and the state or local governments that authorize them. (Source: https://www.usnews.com/education/k12/articles/understanding-charter-schools-vs-public-schools). This offers an interesting prospect of growing the number of charter schools in the district.  Given their smaller operating budgets and tailored curriculum, this would equalize and improve opportunities for more of the communities families.
+
 <img width="803" alt="Scores by Type" src="https://user-images.githubusercontent.com/115101031/202834300-d4f7f393-cc65-49d7-963c-db63524f22c7.png">
                                                                                                                   
 ##Next Steps
