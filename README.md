@@ -1,6 +1,6 @@
 # An Exploration of Education…By the Numbers
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-![giphy](https://user-images.githubusercontent.com/115101031/202830993-5df3e097-e1ec-483a-a52b-70b00c2adfc0.gif)
+                  ![giphy](https://user-images.githubusercontent.com/115101031/202830993-5df3e097-e1ec-483a-a52b-70b00c2adfc0.gif)
 
 ##Background
 
@@ -35,7 +35,7 @@ https://towardsdatascience.com/boost-your-data-analysis-with-pandas-69c4be5d73bb
 https://sedl.org/pubs/sedl-letter/v22n02/using-data.html 
 
 
-##Technical Observations![image](https://user-images.githubusercontent.com/115101031/202831255-5bd2a8c7-ce78-4b97-8523-3d54118d8a08.png)
+##Technical Observations
 
 Educator's and school districts have long collected and used a wide variety of data, including examining standardized test scores to measure district-wide achievement. Tools like Pandas has greatly increased the opportunities to use data and analytics. Using Pandas to take on this challenge gave me a front-row seat to why it is the most popular tool among data scientists.
 
