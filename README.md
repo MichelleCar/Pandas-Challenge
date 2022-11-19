@@ -67,7 +67,7 @@ Our data set included a range of data points, including:
 
 * Scores by Grade: Across each school, there was consistency with math and reading scores from grade to grade.  Students performed better in reading than in math.  The results provided insight as to prioritizing curricular resources and effort on improving math skills across the grades, whether a revision of the curriculum, or additional teaching support to improve foundational capacity. 
 
-<img width="316" alt="Math Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833776-0931e464-e989-40de-9259-1ebebab4b81a.png>
+<img width="316" alt="Math Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202834651-e7471b3f-aef5-445d-ab64-833fe71e2cb6.png">
 
 <img width="316" alt="Reading Scores by Grade" src="https://user-images.githubusercontent.com/115101031/202833784-ee952751-6025-49e2-823a-f8263b3c415a.png">
 
